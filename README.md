@@ -9,8 +9,8 @@ MiSalah/MiSalah is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## The most used language 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misalah&layout=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ## The Misalah Profile Stat's
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalah&show_icons=true&theme=radical)
+
+## The most used language 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misalah&layout=default)
