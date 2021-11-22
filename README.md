@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## The Misalah Profile Stat's
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalah&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalah&show_icons=true&theme=dark&count_private=true)
 
 ## The most used language 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misalah&layout=default)
