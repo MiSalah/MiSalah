@@ -1,3 +1,8 @@
+
+![COVER](https://user-images.githubusercontent.com/74468388/147654273-9cfdc80a-c04a-4164-8328-a569b5f800e7.png)
+
+
+
 - 👋 Hi, I’m @MiSalah (Salaheddine EL BAIDOURY)
 - 👀 I’m interested in Cloud Computing, DevOps Approach, BIG DATA, Business Intelligence, and AI. 
 - 🌱 I’m currently learning as much as possible
